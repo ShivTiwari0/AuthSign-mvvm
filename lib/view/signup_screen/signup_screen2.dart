@@ -212,7 +212,7 @@ class _SignUpScreen2State extends State<SignUpScreen2> {
                       ],
                     ),
                     SizedBox(
-                      height: height(context, 0.25),
+                      height: height(context, 0.2),
                     ),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,

@@ -187,7 +187,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                         },
                         hintText: 'Re-enter Password'),
                     SizedBox(
-                      height: height(context, 0.1),
+                      height: height(context, 0.05),
                     ),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,

@@ -86,7 +86,7 @@ class _SignUpScreen4State extends State<SignUpScreen4> {
                 onHoursChanged: _onHoursChanged,
               ),
               SizedBox(
-                height: height(context, 0.2),
+                height: height(context, 0.1),
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,

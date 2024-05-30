@@ -47,15 +47,6 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
 
       if (response['success'] == true) {
         Utils.toastMessage(response['message']);
-
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => OtpScreen(
-              number: phone,
-            ),
-          ),
-        );
       } else {
         Utils.snackBar(response['message'], context);
       }

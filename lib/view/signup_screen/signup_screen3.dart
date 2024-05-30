@@ -244,7 +244,7 @@ class _SignUpScreen3State extends State<SignUpScreen3> {
                 ),
               ),
               SizedBox(
-                height: height(context, 0.35),
+                height: height(context, 0.3),
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,

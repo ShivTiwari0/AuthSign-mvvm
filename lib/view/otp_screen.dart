@@ -51,6 +51,7 @@ class _OtpScreenState extends State<OtpScreen> {
 
   Future<void> verifyOtp(context) async {
     final otp = otpController.text;
+
     print(otpData);
     print(otp);
     if (otpData!.isEmpty || otpData!.length != 5) {
