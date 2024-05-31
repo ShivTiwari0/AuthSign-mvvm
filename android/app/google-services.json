@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800629170000",
+    "project_id": "softlab-5b4c3",
+    "storage_bucket": "softlab-5b4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800629170000:android:36cfdd76be94ecef2e5655",
+        "android_client_info": {
+          "package_name": "com.example.softlab_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUEyVC40w3yejqtnaPJBhoeSP27Zz8hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
